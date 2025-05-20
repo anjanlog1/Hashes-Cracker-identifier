@@ -5,7 +5,6 @@ A command-line tool written in Python to identify various hash types and attempt
 
 **Author:** Sher Khan
 **LinkedIn:** https://www.linkedin.com/in/sherkhan-sk
-**Contact:** +923122632023
 
 ## Features
 * Identifies multiple hash types (MD5, SHA1, SHA256, etc.)
