@@ -1,7 +1,8 @@
-
-# Python Hash Identifier & Cracker
+# Hash Identifier & Cracker
 
 A command-line tool written in Python to identify various hash types and attempt to crack simple hashes using dictionary and brute-force attacks.
+
+![Screenshot of Hash Cracker Tool](https://github.com/anjanlog1/Hashes-Cracker-identifier/blob/3af6b8fa59f3f4ab5d666969b24b9d4588b4495b/hash_tool_screenshot.jpg?raw=true)
 
 **Author:** Sher Khan
 **LinkedIn:** https://www.linkedin.com/in/sherkhan-sk
