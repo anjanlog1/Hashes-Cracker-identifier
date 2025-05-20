@@ -31,7 +31,7 @@ A command-line tool written in Python to identify various hash types and attempt
 2.  Navigate to the script's directory.
 3.  Run the script:
     ```bash
-    python hash_tool.py
+    python hash_cracker.py
     ```
 
 ## DISCLAIMER
